@@ -1,0 +1,9 @@
+# Q-Learning Maze Escape Game (CDS524 Assignment 1)
+## Setup Instructions
+1. Install dependencies: `pip install -r requirements.txt`
+2. Run the game: `python src/maze_qlearning.py`
+
+## Project Structure
+- `src/`: Core game code
+- `outputs/`: Training results (auto-generated)
+- `docs/`: Report and demo video link
